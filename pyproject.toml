@@ -1,7 +1,7 @@
 [tool.poetry]
-name = "poetpack_tmpl"
+name = "filecheck_pkg"
 version = "0.1.0"
-description = "Poetry tempalte package"
+description = "Python package for file integrity check"
 authors = ["NajlaBH"]
 license = "MIT"
 
@@ -14,7 +14,8 @@ pytest = "^4.6"
 
 
 [tool.poetry.scripts]
-poetpack_tmpl = "poetpack_tmpl.console:main"
+filecheck_pkg = "filecheck_pkg.console:main"
+
 [build-system]
 requires = ["poetry>=0.12"]
 build-backend = "poetry.masonry.api"

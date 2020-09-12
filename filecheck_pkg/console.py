@@ -1,4 +1,4 @@
-# poetpack_tmpl/console.py
+# filecheck_pkg/console.py
 
 import click
 from . import __version__
@@ -14,7 +14,7 @@ from . import __version__
 
 def main():
     """The Poetry template Python project."""
-    click.echo("Hello, world from NajlaBH !")
+    click.echo("Hello, world from NajlaBH filecheck_pkg !!")
 
 
 if __name__ == "__main__":

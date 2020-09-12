@@ -4,14 +4,14 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="poetpack_tmpl", # Replace with your own username
+    name="filecheck_pkg", # Replace with your own username
     version="0.1.0",
     author="NajlaBH",
     author_email="bhndevtools@gmail.com",
-    description="A poetry python package template",
+    description="A python package for file integrity check",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/NajlaBH/poetpack_tmpl",
+    url="https://github.com/NajlaBH/filecheck_pkg",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",

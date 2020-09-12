@@ -1,6 +1,6 @@
-# Poetpack_tmpl
+# Filecheck_pkg
 ##### - About
-A template for python package with poetry
+A python package for file integrity check.
 
 
 
@@ -21,11 +21,11 @@ poetry install
 
 ###### 3. Run
 ```bash
-poetry run poetpack_tmpl
+poetry run filecheck_pkg
 ```
 >>> or
 ```bash
-poetry run poetpack_tmpl --help
+poetry run filecheck_pkg --help
 ```
 
 ##### - Author

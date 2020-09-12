@@ -2,7 +2,7 @@
 
 
 # 1
-## $ run poetpack_tmpl --help
+## $ run filecheck_pkg --help
 
 #2 
-## $ poetry run poetpack_tmpl
+## $ poetry run filecheck_pkg
