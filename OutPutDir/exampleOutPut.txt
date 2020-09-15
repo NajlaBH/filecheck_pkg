@@ -1,0 +1,37 @@
+-----------------------------------------------------
+Package Name: filecheck_pkg
+Author: NajlaBH
+Creation: 12-SEP-20
+LastUpdate: 12-SEP-20
+Version: 0.1.0
+Description:Python package for file integrity check
+-----------------------------------------------------
+
+
+Hello, world from filecheck_pkg !!
+
+ Please enter your name and your workdirs :) 
+
+Your name: NajlaBH
+data source dir: /home/NajlaBH/filecheck_pkg/
+result dir: /home/NajlaBH/OutPutDir/
+
+************************************************
+Hello NajlaBH from NajlaBH !! 
+************************************************
+InputDir : /home/NajlaBH/filecheck_pkg/
+OK: Correct Path
+OK: 10 files ready for chek ;) !!
+OutputDir: /home/NajlaBH/OutPutDir/
+OK: Correct Path
+File integrity checking .....BEGIN
+File integrity checking .....END
+Report editing .....BEGIN
+Your report is here: /home/NajlaBH/OutPutDir/FilesIntegrityReport_2020-09-15_082648.txt
+Report editing .....END
+************************************************
+
+--------------------------------------------------------------------------------------------
+Thank you for using filecheck_pkg package 0.1.0
+More infos : bhndevtools@gmail.com
+--------------------------------------------------------------------------------------------
