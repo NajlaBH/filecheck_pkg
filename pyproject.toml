@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "filecheck_pkg"
-version = "0.1.0"
+version = "1.1.0"
 description = "Python package for file integrity check"
 authors = ["NajlaBH"]
 license = "MIT"

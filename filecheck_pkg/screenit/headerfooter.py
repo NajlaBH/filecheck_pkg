@@ -13,10 +13,10 @@ def console_header():
     global VERSION
     global AUTHOR
     NAME="filecheck_pkg"
-    VERSION="0.1.0"
+    VERSION="1.1.0"
     AUTHOR="NajlaBH"
     CREATION="12-SEP-20"
-    UPDATE="12-SEP-20"
+    UPDATE="15-SEP-20"
     DESCRIPTION="Python package for file integrity check"
     print("-----------------------------------------------------")
     print("Package Name: " + NAME)
@@ -27,6 +27,7 @@ def console_header():
     print("Description:" + DESCRIPTION)
     print("-----------------------------------------------------\n")
 
+    return NAME, VERSION
 
 
 

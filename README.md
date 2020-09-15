@@ -27,6 +27,10 @@ poetry run filecheck_pkg
 ```bash
 poetry run filecheck_pkg --help
 ```
+>>> or one line cmd
+```bash
+python filecheck_pkg/onelinecmd.py username /inputdir/ /outputdir/
+```
 
 ##### - Author
 NajlaBH
